@@ -30,10 +30,11 @@ There is solved some issue related gRPC generation in different platforms.
 
 
 ## Mandatory
-Use listed required technologies; we know that a lot of new and fancy technologies exist, but please follow the requirements
-Don’t overcomplicate design.
-Don’t implement a multi-currency system.
-Authentication is trivial - return account id when credentials are correct. API provided in wallet service
+Use listed required technologies; we know that a lot of new and fancy technologies exist, but please follow the requirements.
+
+* Don’t overcomplicate design.
+* Don’t implement a multi-currency system.
+* Authentication should be trivial - return account id when credentials are correct. API provided in wallet service.
 
 ## Requirement
 Implement 2 microservices: **betting** and **wallet**.
