@@ -147,7 +147,9 @@ Via REST:
 * Swagger for REST endpoints
 
 ## Project delivery
-* The project should be shared via GitHub
+* The project should be shared via GitHub - it should be your repository.
+  * Public
+  * Private, then we will proviate user, who will review you task and you should grand access to it
 * The project should have git history, non-single commit delivery
 * The project should have documentation
   * How to start a project on an empty machine
